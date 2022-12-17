@@ -1,6 +1,6 @@
 # Path Identifying 
 
-Welcome to Path Identifying ! I built this application because I was fascinated by pathfinding algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://lustrous-kulfi-98b2fc.netlify.app/
+Welcome to Path Identifying ! I built this application because I was fascinated by pathfinding algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://apoorva-path-identifying.netlify.app/
 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/79704021/208245056-33f1db41-9e24-4618-99bb-191a7360b8cf.png">
 
