@@ -1,6 +1,6 @@
-# Pathfinding Visualizer
+# Path Identifying 
 
-Welcome to Pathfinding Visualizer! I built this application because I was fascinated by pathfinding algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://lustrous-kulfi-98b2fc.netlify.app/
+Welcome to Path Identifying ! I built this application because I was fascinated by pathfinding algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Pathfinding-Visualizer/
 
 ## Meet the Algorithms
 

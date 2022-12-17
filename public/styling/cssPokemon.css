@@ -251,7 +251,7 @@
   }
 
   50% {
-    background-color: rgba(40, 217, 17, 0.75);
+    background-color: rgba(17, 104, 217, 0.75);
   }
 
   75% {
@@ -311,7 +311,7 @@
 
 .visitedobject{
   /*background:red*/
-  border: 1px solid rgb(152, 181, 114);
+  border: 1px solid rgb(175, 216, 248);
   animation-name: visitedObjectAnimation;
   animation-duration: 1.5s;
   animation-timing-function: ease-out;
@@ -324,7 +324,7 @@
 
 .visitedobject.weight{
   /*background:red*/
-  border: 1px solid rgb(203, 248, 175);
+  border: 1px solid rgb(175, 216, 248);
   background-image: url(weight.svg);
   background-position: center;
   background-repeat: no-repeat;
@@ -342,7 +342,7 @@
 @keyframes visitedObjectAnimation {
   0% {
     transform: scale(.3);
-    background-color: rgba(163, 76, 122, 0.75);
+    background-color: rgba(41, 4, 24, 0.75);
     border-radius: 100%;
   }
 
@@ -362,7 +362,7 @@
 }
 
 .unvisited{
-  border: 1px solid rgb(81, 248, 15);
+  border: 1px solid rgb(175, 216, 248);
   background-color:white
 }
 
@@ -1210,7 +1210,7 @@ kbd {
   padding: 2px 6px;
   font-size: 85%;
   color: #ffffff;
-  background-color: #3e0303;
+  background-color: #900C3F;
   border-radius: 4px;
   box-shadow: none;
 }
@@ -1254,7 +1254,7 @@ a.thumbnail.active {
 }
 .thumbnail .caption {
   padding: 9px;
-  color: #5c0a0a;
+  color: #900C3F;
 }
 .btn {
   border: none;
@@ -3852,7 +3852,7 @@ fieldset[disabled] .input-group-btn .btn-default.active {
   line-height: 1.538;
   font-size: 13px;
   text-transform: uppercase;
-  color: rgba(94, 78, 52, 0.6);
+  color: rgba(52, 73, 94, 0.6);
 }
 .dropdown-header:first-child {
   margin-top: 3px;
@@ -3871,7 +3871,7 @@ fieldset[disabled] .input-group-btn .btn-default.active {
   margin-bottom: 9px;
 }
 .dropdown-menu-inverse {
-  background-color: #5e4834;
+  background-color: #900C3F;
 }
 .dropdown-menu-inverse .divider {
   height: 2px;
